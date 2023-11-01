@@ -1,7 +1,6 @@
 "use client";
 import CityPicker from "@/components/CityPicker";
 import { Card, Divider, Subtitle, Text } from "@tremor/react";
-//mport { Card, Text, Metric, Flex, ProgressBar } from "@tremor/react";
 //LOOK UP
 /**
  * 1) next.js and 'use client'
